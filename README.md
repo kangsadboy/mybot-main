@@ -75,9 +75,9 @@ Jangan ubah ubah info, Hargai Karya orang lain bro
 jangan cuman modal nama doang
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Youtube Admin`]mybot-main)
+* [`Instagram Admin`](https://instagram.com/yes_gwsalah)
+* [`WhatsApp Admin `](https://wa.me/+62895355566000)
 ## THANKS TO
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
